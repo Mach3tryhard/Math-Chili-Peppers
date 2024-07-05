@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1720202518 source:c:\users\matei\desktop\chili peppers\pepper\main.cpp
+	<tchar.h>
+	<windows.h>
+	<cmath>
+
